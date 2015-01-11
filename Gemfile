@@ -6,6 +6,8 @@ group :development do
   gem 'sqlite3', '1.3.8'
 end
 
+gem 'bootstrap-sass'
+
 gem 'sass-rails'
 
 gem 'uglifier', '2.1.1'
