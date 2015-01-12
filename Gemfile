@@ -8,6 +8,8 @@ end
 
 gem 'bootstrap-sass'
 
+gem 'bcrypt'
+
 gem 'sass-rails'
 
 gem 'uglifier', '2.1.1'
